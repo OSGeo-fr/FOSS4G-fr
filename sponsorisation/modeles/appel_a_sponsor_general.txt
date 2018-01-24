@@ -1,0 +1,29 @@
+#
+# Texte de mail à personnaliser éventuellement en fonction du signataire et du destinataire
+# S'adresse aux sociétés/organismes contactés de manière générique
+#
+
+Sujet : demande de soutien au FOSS4G-fr 2018
+
+Madame, Monsieur,
+
+
+L’édition 2018 du FOSS4G-fr aura lieu du 15 au 17 mai dans les locaux de l'ENSG (École Nationale des Sciences Géographiques), à Marne-la-Vallée (accès depuis Paris par le RER A).
+
+Organisé par l'OSGeo-fr, cet événement est dédié à la Géomatique Open Source et aux données géographiques libres.
+Les précédentes éditions ont rencontré un réel succès, et réuni lors de la dernière édition près de 250 utilisateurs, développeurs et professionnels des SIG (Systèmes d'Information Géographique), pour une journée d'ateliers et deux jours de conférences.
+
+Sur un format similaire, le comité d'organisation se donne, cette année,  comme ambition de réunir un public encore plus large de participants et conférenciers, issus de la communauté SIG Open Source francophone.
+L'OSGeo-fr, association organisatrice de l'événement, recherche des sponsors pour financer cette rencontre.
+C'est "l'Evénement biennal de la Géomatique Open Source" qui permet aux participants d'assurer leur veille technologique.
+En tant qu'acteur de la Géomatique Open Source, soutenir l'événement vous permettra d'améliorer votre visibilité.
+
+Les trois niveaux de sponsorisation sont accessibles via le lien ci-dessous.
+http://osgeo.asso.fr/foss4gfr-2018/sponsors.html
+
+
+Espérant pouvoir compter sur le soutien de SOCIETE, nous restons à votre disposition, meilleures salutations.
+
+SIGNATAIRE
+QUALITE
+
