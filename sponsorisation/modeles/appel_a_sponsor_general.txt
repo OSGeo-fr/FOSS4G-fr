@@ -19,7 +19,7 @@ C'est "l'Evénement biennal de la Géomatique Open Source" qui permet aux partic
 En tant qu'acteur de la Géomatique Open Source, soutenir l'événement vous permettra d'améliorer votre visibilité.
 
 Les trois niveaux de sponsorisation sont accessibles via le lien ci-dessous.
-http://osgeo.asso.fr/foss4gfr-2018/sponsors.html
+http://osgeo.asso.fr/foss4gfr-2018/sponsors.html#appel-sponsors
 
 
 Espérant pouvoir compter sur le soutien de SOCIETE, nous restons à votre disposition, meilleures salutations.
