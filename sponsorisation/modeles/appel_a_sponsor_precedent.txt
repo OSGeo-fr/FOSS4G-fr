@@ -3,21 +3,21 @@
 # S'adresse aux sociétés/organismes ayant déjà été sponsor
 #
 
-Sujet : demande de soutien au FOSS4G-fr 2018
+Sujet : Demande de soutien au FOSS4G-fr 2018
 
 Bonjour PRENOM,
 
 
 L’édition 2018 du FOSS4G-fr aura lieu du 15 au 17 mai dans les locaux de l'ENSG (École Nationale des Sciences Géographiques), à Marne-la-Vallée.
 
-Cette année, le comité d'organisation se donne comme ambition de réunir un public encore plus large de participants et conférenciers, issus de la communauté SIG Open Source francophone.
+Cette année, le comité d'organisation se donne comme ambition de réunir un public encore plus large de participants et conférenciers, issus de la communauté géomatique Open Source francophone.
 
 Par le passé, SOCIETE a apporté son soutien financier en tant que Sponsor; nous espérons que vous renouvellerez votre soutien à l'événement cette année.
 
 Les différentes options de sponsorisation sont accessibles via le lien ci-dessous.
 http://osgeo.asso.fr/foss4gfr-2018/sponsors.html
 
-Dans l'attente d'une réponse favorable, meilleures salutations.
+Dans l'attente d'une réponse que nous espérons favorable, meilleures salutations.
 
 SIGNATAIRE
 QUALITE
